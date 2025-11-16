@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+.venv-x86/
+
+# macOS artifacts
+.DS_Store
+
+# PyInstaller
+*.spec
+dir-consolidator/
+
+# Other
+.Rhistory

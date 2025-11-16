@@ -1,0 +1,22 @@
+[project]
+name = "dir-consolidator"
+version = "0.1.0"
+description = "Console tool that consolidates two source folders into one deduplicated destination."
+authors = [
+  { name = "Разраб" }
+]
+requires-python = ">=3.10"
+dependencies = [
+  "rich>=13.7.0",
+  "prompt_toolkit>=3.0.40"
+]
+
+[build-system]
+requires = ["setuptools>=67"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["consolidator"]
+
+[project.scripts]
+dir-consolidator = "consolidator.app:run"

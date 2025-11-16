@@ -1,0 +1,179 @@
+[14:03:45] Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_a/alpha.txt                                                
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_a/alpha.txt →                                              
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/alpha.txt                                                  
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_a/reports/report copy.txt                                  
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_a/reports/report copy.txt →                                
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/reports/report.txt                                         
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_a/nested/shared.bin                                        
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_a/nested/shared.bin →                                      
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/nested/shared.bin                                          
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_a/conflict/data.txt                                        
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_a/conflict/data.txt →                                      
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/conflict/data.txt                                          
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/beta.txt                                                 
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/beta.txt →                                               
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/beta.txt                                                   
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/reports/report.txt                                       
+           Дубликат                                                   app.py:473
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/reports/report.txt → уже есть                            
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/reports/report.txt                                         
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/nested/shared.bin                                        
+           Дубликат                                                   app.py:473
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/nested/shared.bin → уже есть                             
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/nested/shared.bin                                          
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/conflict/data.txt                                        
+           Конфликт имён, сохраняю как data.txt__251115               app.py:486
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/conflict/data.txt →                                      
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/conflict/data.txt__251115                                  
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/unique/gamma.txt                                         
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_b/unique/gamma.txt →                                       
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/unique/gamma.txt                                           
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_c/reports/annual report extended 2024.txt                  
+           Переименовано report.txt → annual report extended 2024.txt app.py:467
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_c/delta/notes.txt                                          
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/source_c/delta/notes.txt →                                        
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpwcx23v           
+           zt/result/delta/notes.txt                                            
+Обработка файлов ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:00
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_a/alpha.txt                                                
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_a/alpha.txt →                                              
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/alpha.txt                                                  
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_a/reports/report copy.txt                                  
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_a/reports/report copy.txt →                                
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/reports/report.txt                                         
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_a/nested/shared.bin                                        
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_a/nested/shared.bin →                                      
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/nested/shared.bin                                          
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_a/conflict/data.txt                                        
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_a/conflict/data.txt →                                      
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/conflict/data.txt                                          
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/beta.txt                                                 
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/beta.txt →                                               
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/beta.txt                                                   
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/reports/report.txt                                       
+           Дубликат                                                   app.py:473
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/reports/report.txt → уже есть                            
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/reports/report.txt                                         
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/nested/shared.bin                                        
+           Дубликат                                                   app.py:473
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/nested/shared.bin → уже есть                             
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/nested/shared.bin                                          
+[14:03:48] Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/conflict/data.txt                                        
+           Конфликт имён, сохраняю как data.txt__251115               app.py:486
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/conflict/data.txt →                                      
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/conflict/data.txt__251115                                  
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/unique/gamma.txt                                         
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_b/unique/gamma.txt →                                       
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/unique/gamma.txt                                           
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_c/reports/annual report extended 2024.txt                  
+           Переименовано report.txt → annual report extended 2024.txt app.py:467
+           Хэшируем:                                                  app.py:441
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_c/delta/notes.txt                                          
+           Скопировано                                                app.py:501
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/source_c/delta/notes.txt →                                        
+           /var/folders/j4/g4y7fdyj5f57q385kcfykqd40000gn/T/tmpm3bcil           
+           yb/result/delta/notes.txt                                            
+Обработка файлов ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:03
+                   Smoke summary                   
+┏━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━━━━┓
+┃ Scenario  ┃ Unique files ┃ Sources ┃ Duplicates ┃
+┡━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━━━━┩
+│ clean_run │ 8            │ 11      │ 3          │
+│ error_run │ 8            │ 12      │ 4          │
+└───────────┴──────────────┴─────────┴────────────┘
