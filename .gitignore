@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *.log
 *.egg-info/
-dist/
 build/
 
 # Virtual environments
